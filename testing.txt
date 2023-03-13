@@ -2,4 +2,4 @@ Esto es un archivo de prueba
 
 Changing the content of this file to test Git :D
 
-Today we will talk about his life
+Today we will talk about his life and masterpiece.
