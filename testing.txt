@@ -1,3 +1,5 @@
 Esto es un archivo de prueba
 
-Tomorrow we will focus in his work life
+Changing the content of this file to test Git :D
+
+Today we will talk about his life and masterpiece.
