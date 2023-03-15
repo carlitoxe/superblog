@@ -1,4 +1,4 @@
-# superblog
+# superblog :eyes:
 
 A superblog made as part of Git and Github course from Platzi.
 
