@@ -6,4 +6,6 @@ Any competent developer should know how to use correctly Git and Github, because
 
 And it is always nice to know how the things works under the hood :eyes:
 
+Created by the incredible Platzi Team.
+
 If you want to know more about the course, [click here](https://platzi.com/cursos/git-github/ "click here")
